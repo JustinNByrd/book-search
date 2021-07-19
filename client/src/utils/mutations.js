@@ -55,6 +55,7 @@ export const REMOVE_BOOK = gql`
 				authors
 				image
 				link
+			}
 		}
 	}
 `;
